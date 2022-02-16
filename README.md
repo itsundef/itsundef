@@ -1,6 +1,7 @@
-### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50"/> 
+### Hi there
+<img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="50"/> 
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/><img src="https://emojis.slackmojis.com/emojis/images/1588108671/8787/fb-hug.png?1588108671" width="50"><img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="50">
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/><img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="50">
 <!--
 **itsundef/itsundef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
